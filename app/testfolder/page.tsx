@@ -1,5 +1,6 @@
 export default function Page(){
-    return <>
-    <h1>TESTED!</h1>
+    return 
+    <>
+        <h1>TESTED!</h1>
     </>
 }
