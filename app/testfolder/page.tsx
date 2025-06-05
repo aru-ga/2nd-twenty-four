@@ -1,6 +1,7 @@
-export default function Page(){
-    return 
-    <>
-        <h1>TESTED!</h1>
-    </>
+export default function Page() {
+    return (
+        <>
+            <h1>TESTED!</h1>
+        </>
+    );
 }

@@ -8,6 +8,6 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                 <SideNav />
             </div>
             <div>{children}</div>
-    </div>
+        </div>
     );
 }
